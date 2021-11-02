@@ -1,0 +1,137 @@
+/*variables*/
+:root{
+    --darkColor: #363f5f;
+    --lightColor: #ffffff;
+    --darkBgColor:#2d4a22;
+    --lightBgColor: #49aa26;
+    --light2BgColor: #f0f2f5;
+    --tableColor: #969cb3;
+}
+
+/*reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*body*/
+body{
+    background-color: var(--light2BgColor);
+    font-family: 'Poppins', sans-serif;
+}
+
+/*header*/
+header{
+    background-color: var(--darkBgColor);
+    padding: 2rem 0 10rem;
+    text-align: center;
+}
+
+/*logo*/
+header #logo{
+    color: var(--lightColor);    
+    font-weight: 100;    
+}
+
+/*container*/
+.container{
+    width: min(90vw, 800px);
+    margin: auto;
+}
+
+.container h2{
+    margin: 3.2rem 0 0.8rem 0;
+    color: var(--darkColor);
+    font-weight: normal;
+}
+
+/*balance*/
+#balance{
+    margin-top: -8rem;
+}
+
+#balance h2{
+    color: var(--lightColor);
+}
+
+/*balance cards*/
+.card{
+    background-color: var(--lightColor);
+    padding: 1.5rem 2rem;
+    border-radius: 0.25rem;
+    margin-bottom: 2rem;
+    color: var(--darkColor);
+}
+
+.card.total{
+    background-color: var(--lightBgColor);
+    color: var(--lightColor);
+}
+
+.card h3{   
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+.card p{
+    font-weight: normal;
+    font-size: 2rem;
+    line-height: 3rem;
+    margin-top: 1rem;
+}
+
+/*transaction */
+/*data table*/
+#transaction #data-table{
+    width: 100%;
+    border-spacing: 0 0.5rem;
+    color: var(--tableColor);    
+}
+
+#transaction #data-table thead tr th:first-child,
+#transaction #data-table tbody tr td:first-child{
+    border-radius: 0.5rem 0 0 0.5rem;
+}
+
+#transaction #data-table tbody tr{
+    opacity: 0.6;    
+    transition: opacity 0.3s;
+}
+
+#transaction #data-table tbody tr:hover{
+    opacity: 1;
+}
+
+#transaction #data-table th{
+    background-color: var(--lightColor);
+    font-weight: normal;
+    padding: 1rem 2rem;
+    text-align: left;
+}
+
+#transaction #data-table td{
+    background-color: var(--lightColor);
+    padding: 1rem 2rem;
+    font-weight: normal;    
+}
+
+#transaction #data-table td.description{
+    color: var(--darkColor);
+}
+
+#transaction #data-table td.expense{
+    color: #e92929;
+}
+
+#transaction #data-table td.income{
+    color: #12a454;
+}
+
+/*footer*/
+footer{
+    text-align: center;
+    padding: 3rem 0 2rem;
+    color: var(--darkColor);
+    opacity: 0.6;
+}
