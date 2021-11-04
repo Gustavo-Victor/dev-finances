@@ -58,3 +58,13 @@ Bora Codar
 -estilização com CSS
 -interatividade e funcionalidades extras da aplicação com JavaScript
 
+O que vamos ver de JavaScript na aula 3 
+-objetos
+-tipos e estrutura de dados
+-if/else
+-erros
+-funcionalidades
+-adicionar e remover trandasaações
+-calcular
+-salvar no localStorage (método de armazenamento de dados local)
+
