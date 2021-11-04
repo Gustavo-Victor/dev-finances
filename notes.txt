@@ -1,60 +1,60 @@
-        <!--
-            vamos construir um mini sistema financeiro com HTML, CSS e JS e colocaremos nosso código no Github
 
-            Preparação 
-            -logar na plataforma
+vamos construir um mini sistema financeiro com HTML, CSS e JS e colocaremos nosso código no Github
 
-            Tarefa 01: assistir cursos
-            -ambiente dev  OK
-            -guia de programação OK
+Preparação 
+-logar na plataforma
+
+Tarefa 01: assistir cursos
+-ambiente dev  OK
+-guia de programação OK
             
-            Qual a proposta deste projeto
-            []organização, plataforma e comunidade, mentalidade dev, prática das tecnologias do discover
+Qual a proposta deste projeto
+[]organização, plataforma e comunidade, mentalidade dev, prática das tecnologias do discover
 
-            O que você vai ganhar
-            clareza, entendimento da plataforma e comunidade, projeto aplicando os conceitos do discover, bases necessárias para continuar sua jornada 
-
-
-            O que é ser programador? 
-            -ter várias oportunidades
-            -mercados
-            -soft e hard skiils
-            -tecnologia e evolução
-            -especialista x generalista
+O que você vai ganhar
+clareza, entendimento da plataforma e comunidade, projeto aplicando os conceitos do discover, bases necessárias para continuar sua jornada 
 
 
-            Guia de estudos e organização
-            -pomodoro (descanso a cada 20-25 min)
-            -tenha um lugar e hora reservados para seu estudo (foco, silêncio, interrupção)
-            -aprendizado ativo x passivo
-            -aprenda a revisar o que aprendeu
-            -aprenda a ensinar o que aprendeu
-            -anotação (mais após aula) e revisão
-            -revisão é a mãe do aprendizado
-            -busque respostas a o que você não entendeu
-
-            Navegando pela plataforma 
-            -comunicade
-            -trilhas
-            -cursos
-
-            Como acompanhar os vídeos
-            -assistir  com intuito de entender (não decore)
-            -code o bloco de código após entender o que foi feito
-            -não tem problema não entender tudo de primeira
-            -reconhecimento e não memória
+O que é ser programador? 
+-ter várias oportunidades
+-mercados
+ -soft e hard skiils
+ -tecnologia e evolução
+ -especialista x generalista
 
 
-            Mentalidade
-            -você precisa de tempo
-            -descando faz parte do trabalho e do aprendizado
-            -o cérebro precisa de tempo para assimilar as coisas
-            -você precisa ter persistência
-            -programar é encontrar soluções
-            -você gosta do que está fazendo? SIM
+Guia de estudos e organização
+-pomodoro (descanso a cada 20-25 min)
+-tenha um lugar e hora reservados para seu estudo (foco, silêncio, interrupção)
+-aprendizado ativo x passivo
+-aprenda a revisar o que aprendeu
+-aprenda a ensinar o que aprendeu
+-anotação (mais após aula) e revisão
+-revisão é a mãe do aprendizado
+-busque respostas a o que você não entendeu
 
-            Bora Codar
-            -estrutura da aplicação com HTML
-            -estilização com CSS
-            -interatividade e funcionalidades extras da aplicação com JavaScript
-        -->
+Navegando pela plataforma 
+-comunicade
+-trilhas
+-cursos
+
+Como acompanhar os vídeos
+-assistir  com intuito de entender (não decore)
+-code o bloco de código após entender o que foi feito
+-não tem problema não entender tudo de primeira
+-reconhecimento e não memória
+
+
+Mentalidade
+-você precisa de tempo
+-descando faz parte do trabalho e do aprendizado
+-o cérebro precisa de tempo para assimilar as coisas
+-você precisa ter persistência
+-programar é encontrar soluções
+-você gosta do que está fazendo? SIM
+
+Bora Codar
+-estrutura da aplicação com HTML
+-estilização com CSS
+-interatividade e funcionalidades extras da aplicação com JavaScript
+
