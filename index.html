@@ -7,10 +7,10 @@
         <title>dev.finances</title>
 
         <!--CSS-->
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="./assets/css/style.css">
 
         <!--JS-->
-        <script src="./script.js" defer></script>
+        <script src="./assets/js/script.js" defer></script>
 
 
         <!--Font-->
@@ -22,7 +22,7 @@
     <body>
         <!--header-->
         <header>
-            <img src="./assets/logo.svg" alt="Logo Dev Finances" title="Logo Dev Finances">
+            <img src="./assets/svg/logo.svg" alt="Logo Dev Finances" title="Logo Dev Finances">
         </header>
 
         <!--main-->
@@ -33,25 +33,25 @@
                 <div class="card">
                     <h3>
                         <span>Entradas</span>
-                        <img src="./assets/income.svg" alt="Entradas" title="Entradas">
+                        <img src="./assets/svg/income.svg" alt="Entradas" title="Entradas">
                     </h3>
-                    <p id="incomeDisplay">R$ 5000,00</p>
+                    <p id="incomeDisplay">R$ 0,00</p>
                 </div>
 
                 <div class="card">
                     <h3>
                         <span>Saídas</span>
-                        <img src="./assets/expense.svg" alt="Saídas" title="Saídas">
+                        <img src="./assets/svg/expense.svg" alt="Saídas" title="Saídas">
                     </h3>
-                    <p id="expenseDisplay">R$ 2000,00</p>
+                    <p id="expenseDisplay">R$ 0,00</p>
                 </div>
 
                 <div class="card total">
                     <h3>
                         <span>Total</span>
-                        <img src="./assets/total.svg" alt="Total" title="Total">
+                        <img src="./assets/svg/total.svg" alt="Total" title="Total">
                     </h3>
-                    <p id="totalDisplay">R$ 3000,00</p>
+                    <p id="totalDisplay">R$ 0,00</p>
                 </div>
             </section>
 
@@ -84,7 +84,7 @@
             <div class="modal">  
                 <div id="form">
                     <h2>Nova Transação</h2>
-                    <form action="">
+                    <form action="" onsubmit="Form.submit(event)">
                         <div class="input-group">
                             <label class="sr-only" for="description">Descrição</label>
                             <input type="text" id="description" name="description" placeholder="Descrição...">
