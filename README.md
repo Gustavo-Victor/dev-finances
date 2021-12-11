@@ -1,12 +1,12 @@
-<h1 align='center'>Dev Finances 💰</h1>
-
-<p align='center'>Application to manage incomes and expenses</p>
-
 <p align='center'>
 <a href='#'><img alt='Issues' title='Issues' src='https://img.shields.io/github/issues/Gustavo-Victor/dev-finances'></a>
 <a href='#'><img alt='Forks' title='Forks' src='https://img.shields.io/github/forks/Gustavo-Victor/dev-finances'></a>
 <a href='#'><img alt='Stars' title='Stars' src='https://img.shields.io/github/stars/Gustavo-Victor/dev-finances'></a>
 </p>
+
+<h1 align='center'>Dev Finances 💰</h1>
+
+<p align='center'>Application to manage incomes and expenses</p>
 
 <p align='center'>🚀Project Completed✅</p>
 
