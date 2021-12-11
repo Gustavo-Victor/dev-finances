@@ -38,7 +38,7 @@ This project is a website that was created to help control and calculate daily e
 
 To see the project hosted on Github Pages click on [this link](https://gustavo-victor.github.io/dev-finances)
 
-## ⚙️ Functionalities
+## ⚙️Functionalities
 
 - [x] Modal in JavaScript to display the form
 
