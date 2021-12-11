@@ -4,7 +4,7 @@
 <a href='#'><img alt='Stars' title='Stars' src='https://img.shields.io/github/stars/Gustavo-Victor/dev-finances'></a>
 </p>
 
-<h1 align='center'>Dev Finances 💰</h1>
+<h1 align='center'>💰 Dev Finances 💰</h1>
 
 <p align='center'>Application to manage incomes and expenses</p>
 
