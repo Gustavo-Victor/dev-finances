@@ -28,8 +28,8 @@ This project is a website that was created to help control and calculate daily e
 ## 🎨 Screenshots
 
 ### Desktop / Laptop
-<a align='left' href='./assets/img/screenshotd.png' target='_blank'><img src='./assets/img/screenshotd.png' alt='Desktop 1' title='Desktop 1'/></a>
-<a align='right' href='./assets/img/screenshot2d.png' target='_blank'><img src='./assets/img/screenshot2d.png' alt='Desktop 2' title='Desktop 2'/></a>
+<a align='left' href='./assets/img/screenshotc.png' target='_blank'><img src='./assets/img/screenshotc.png' alt='Desktop 1' title='Desktop 1'/></a>
+<a align='right' href='./assets/img/screenshot2c.png' target='_blank'><img src='./assets/img/screenshot2c.png' alt='Desktop 2' title='Desktop 2'/></a>
 
 ### Mobile 
 <a align='left' href='./assets/img/screenshot3.png' target='_blank'><img src='./assets/img/screenshot3.png' alt='Mobile 1' title='Mobile 1'/></a>
